@@ -26,6 +26,7 @@ I'm a high school student and software developer with a passion for **robotics, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino logo" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git logo" width="40" height="40"/> 
 </div>
+
 ---
 
 <div>
