@@ -37,11 +37,6 @@ I'm a high school student and software developer with a passion for **robotics, 
 
 ---
 
-### 🚀 What I’m Working on Now
-- **FTC Robot Development**: Building an FTC robot with the TechMaker Challenge team, where I handle programming, mechanics, and electronics, and mentor new team members.
-
----
-
 ### 📫 Let’s Connect
 - **email**: tagrigull@gmail.com
 - **Linkedin**: linkedin.com/in/tiago-grigull-b51581278
