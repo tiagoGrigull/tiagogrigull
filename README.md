@@ -9,8 +9,8 @@ I'm a high school student and software developer with a passion for **robotics, 
 ### 💡 About Me
 
 - 🎓 **Student** exploring practical applications of programming, robotics, and software development.
-- 🛠 **Tech Enthusiast**: Currently building web applications with **Java** (traditional Servlets, JSPs) and integrating the frontend with **React**.
-- 🤖 **Robotics Team Member**: Proud member of the Techmaker Challenge, participating since our team’s first season in FIRST competitions, where I work on programming, electrical, and mechanical aspects to bring our robots to life.
+- 🛠 **Tech Enthusiast**: Currently building web applications with **Java** (traditional Servlets, JSPs, Angular).
+- 🤖 **Robotics Team Member**: Proud member of the Techmaker Challenge #23069, participating since our team’s first season in FIRST competitions, where I work on programming, electrical, and mechanical aspects to bring our robots to life.
 
 ---
 
