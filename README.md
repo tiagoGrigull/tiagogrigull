@@ -2,8 +2,6 @@
 
 ### Welcome to my GitHub!
 
-I'm a high school student and software developer with a passion for **robotics, game development, and web development**.
-
 ---
 
 ### 💡 About Me
