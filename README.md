@@ -4,15 +4,6 @@
 
 ---
 
-### 💡 About Me
-
-- 🎓 **Student** exploring practical applications of programming, robotics, and software development.
-- 🛠 **Tech Enthusiast**: Currently building web applications with **Java** (traditional Servlets, JSPs, Angular).
-- 🤖 **Robotics Team Member**: Proud member of the Techmaker Challenge #23069, participating since our team’s first season in FIRST competitions, where I work on programming, electrical, and mechanical aspects to bring our robots to life.
-
----
-
-### 🔧 Technologies and Tools
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# logo" width="40" height="40"/> 
